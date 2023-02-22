@@ -9,7 +9,7 @@
 ---
 
 ## :man_technologist: About Me :
-My name is Fady Zaki, and I'm a frontend developer :desktop_computer: from :egypt: Egypt. I started my journey in web development in 2021 as a self-learner :books: , and I'm constantly striving to improve my skills and build a professional career :rocket: .
+My name is Fady Zaki, and I'm a FrontEnd developer :desktop_computer: based in :egypt: Egypt. I started my journey in web development in 2021 as a self-learner :books: , and I'm constantly striving to improve my skills and build a professional career :rocket: .
 
 ---
 
