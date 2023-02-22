@@ -30,7 +30,7 @@ Feel free to check out my GitHub repositories , where you can see some of my pro
 
 Thanks for stopping by! :smile:
   <div>
-    <a href="https://www.linkedin.com/in/fady-zaki-944a71229/" target="_blank">
+    <a href="https://www.linkedin.com/in/fady-zaki-944a71229/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
